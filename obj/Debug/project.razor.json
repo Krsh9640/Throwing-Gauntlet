@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\Users\\Kuroshio\\3D Throwing Game\\obj\\Debug\\project.razor.json",
+  "FilePath": "c:\\Users\\Kuroshio\\3D Throwing Game\\Unity.EditorCoroutines.Editor.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
